@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vue-actions-deploy/precache-manifest.b577bd7b1495d154d29047c98e4dd798.js"
+  "/vue-actions-deploy/precache-manifest.4bd305ebe842a349dd6cb2943f1da586.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-actions-deploy"});
